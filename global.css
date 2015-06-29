@@ -1,11 +1,12 @@
 h1 {
   font-size: 30px;
+  color: #7d5ca1;
   
 }
 
 p {
   margin-left: 40px;
-  color: green;
+  color: #7d5ca1;
   font-size: 20px;
 }
 
@@ -14,16 +15,18 @@ p {
   display: block;
   height: 50px;
   width: 150px;
-  background: #34696f;
-  border: 2px solid rgba(33, 68, 72, 0.59);
+  background: #daa3cb;
+  border: 2px solid rgba(214, 122, 223, 0.59);
   
-  color: rgba(0, 0, 0, 0.55);
+  color: rgba(125, 92, 161, 0.55);
+  margin-top: 15px;
+  margin-left: 50px;
   text-align: center;
   font: 30px "Arial";
   
-  background: linear-gradient(top, #34696f, #2f5f63);
+  background: linear-gradient(top, #e7e5ce, #e7e5ce);
   border-radius: 50px;
-  box-shadow: 0 8px 0 #1b383b;
+  box-shadow: 0 8px 0 #cabdd9;
   text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
 }
 
